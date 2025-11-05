@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- Computer Engineering Student at University of Puerto Rico at Mayaguez
+- UPRM Esports Chief Technologies Officer
+- Web Developer
+- Freelance Graphic Designer
 <!--
 **brieltrres2/brieltrres2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
