@@ -4,6 +4,17 @@
 - UPRM Esports Chief Technologies Officer
 - Web Developer
 - Freelance Graphic Designer
+
+### Currently programming in...
+
+|  |
+|:-----------|
+|HTML|
+|CSS|
+|JavaScript|
+|Python|
+
+
 <!--
 **brieltrres2/brieltrres2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
